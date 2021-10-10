@@ -1,7 +1,7 @@
 - 👋 Hi, nice to meet ya! I'm Victor Serafim. </br>
 I've been programming for a while, but I never populated my github. So I'll start putting my little projects here.
 
-<div align="center">
+<div align="inline-block">
   <a href="https://github.com/victorserafim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorserafim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorserafim&layout=compact&langs_count=7&theme=dark"/>
